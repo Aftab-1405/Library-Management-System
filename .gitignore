@@ -1,0 +1,64 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+/media/
+/staticfiles/
+
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# IDEs
+.idea/
+*.swp
+*~
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Unit test / Coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Docker
+*.pid
+*.seed
+*.bak
+
+# Backup files
+*.bak
+*.backup
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
